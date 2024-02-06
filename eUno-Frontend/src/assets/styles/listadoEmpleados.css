@@ -1,0 +1,81 @@
+.listado-empleados-container {
+  margin: 20px;
+}
+
+.listado-empleados-header {
+  margin-bottom: 20px;
+}
+
+.listado-empleados-header h1 {
+  margin-bottom: 10px;
+}
+
+.listado-empleados-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.listado-empleados-table th,
+.listado-empleados-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.listado-empleados-table th {
+  background-color: #f2f2f2;
+}
+
+.listado-empleados-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.listado-empleados-table tr:hover {
+  background-color: #ddd;
+}
+
+.agregar-empleado-button {
+  display: block;
+  margin-top: 20px;
+}
+
+.btn-delete {
+  background-color: rgb(235, 43, 43);
+  border: none;
+  border-radius: 10px;
+  padding: 8px;
+  color: white;
+  font-size: 15px;
+}
+
+.btn-delete:hover {
+  background-color: rgb(95, 0, 0);
+}
+
+.btn-update {
+  background-color: rgb(98, 201, 98);
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+}
+
+.btn-update:hover {
+  background-color: rgb(0, 114, 0);
+}
+
+.btn-add:hover {
+  background-color: rgb(98, 105, 201);
+  border-color: transparent;
+  color: white;
+}
+
+.btn-add {
+  border-color: rgb(98, 105, 201);
+  background-color: white;
+  color: rgb(98, 105, 201);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 15px;
+}
