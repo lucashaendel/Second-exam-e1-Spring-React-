@@ -1,0 +1,5 @@
+![Screenshot 2024-02-01 190752](https://github.com/lucashaendel/Second-exam-e1-Spring-React-/assets/83675953/a28f8dcf-9107-498d-98b6-d93ca6f5ad46)
+![Screenshot 2024-02-01 190808](https://github.com/lucashaendel/Second-exam-e1-Spring-React-/assets/83675953/0543ef5d-d9ac-4b31-9dd6-363f2da03697)
+![Screenshot 2024-02-01 190949](https://github.com/lucashaendel/Second-exam-e1-Spring-React-/assets/83675953/d4102fb5-bbf0-4b7e-9b4a-33b84bff4709)
+![Screenshot 2024-02-01 191501](https://github.com/lucashaendel/Second-exam-e1-Spring-React-/assets/83675953/23d26b71-5bd4-4b88-bf93-86112a0aa25d)
+![Screenshot 2024-02-01 191900](https://github.com/lucashaendel/Second-exam-e1-Spring-React-/assets/83675953/58c275e4-31e3-4803-ae08-06cc6aab34c1)
